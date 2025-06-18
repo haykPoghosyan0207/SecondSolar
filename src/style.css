@@ -2092,7 +2092,7 @@
     }
 
     .mailLeft > p {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .mailLeft > button {
@@ -2251,8 +2251,8 @@
     }
 
     .flipCardFront img {
-        width: 40px;
-        height: 40px;
+        width: 150px;
+        height: 1500px;
     }
 
     .flipCardBack {
@@ -2265,7 +2265,7 @@
     }
 
     .textContainer h3 {
-        font-size: 1rem;
+        font-size: 2rem;
     }
     /* ProductDemo բաժին */
     .productDemo {
@@ -2426,7 +2426,7 @@
     }
 
     .about {
-        padding: 1rem;
+        padding: 0 1rem;
     }
 
     .aboutHeader {
@@ -2575,7 +2575,7 @@
     }
 
     .tradeShowSection {
-        padding: 2rem 1rem;
+        padding: 0 1rem;
         min-height: auto;
     }
 
@@ -2647,8 +2647,8 @@
     }
 
     .flipCardFront img {
-        width: 35px;
-        height: 35px;
+        width: 90px;
+        height: 90px;
     }
 
     .flipCardBack {
